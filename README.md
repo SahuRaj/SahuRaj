@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SahuRaj
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Client side technologies as well as Server side technologies
+- 👀 I’m interested in AI Product Management
 - 📫 How to reach me - rajeshsahuiitk@gmail.com
 
 <!---
